@@ -1,9 +1,3 @@
-/* Student Name: Vi Tuan Ha
- * Lab Professor: Howard Rosenblum
- * Due Date: February 7th, 2024
- * Description: Assignment 01
- */
-
 package GroceryStore;
 
 import java.util.*;
